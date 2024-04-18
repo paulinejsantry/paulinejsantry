@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @paulinejsantry
-- 👀 I’m interested in Sports Data Analytics
+- 👀 I’m interested in Data Analytics for Sports
 - 🌱 I’m currently learning R & Python
 - 📫 How to reach me pauline.j.santry@gmail.com
 - 😄 Pronouns: she/her/hers
